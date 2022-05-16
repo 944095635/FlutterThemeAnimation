@@ -1,6 +1,8 @@
 # ThemeAnimation
 flutter theme animation
 
+<img src="https://raw.githubusercontent.com/944095635/ThemeAnimation/main/image/1.gif" align="center">
+
 !()[https://raw.githubusercontent.com/944095635/ThemeAnimation/main/image/1.gif]
 
 [https://raw.githubusercontent.com/944095635/ThemeAnimation/main/image/temp.png]
